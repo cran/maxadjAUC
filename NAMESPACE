@@ -1,0 +1,2 @@
+export(maxadjAUC)
+importFrom("stats", "as.formula", "glm", "pnorm", "sd")
